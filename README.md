@@ -3,7 +3,7 @@ A minimalist redesign for T-Square
 
 Features:
 
-Helvetica everywhere, 
+Helvetica everywhere
 
 A simplified, larger logout button
 
