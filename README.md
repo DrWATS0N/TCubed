@@ -2,6 +2,7 @@
 A minimalist redesign for T-Square
 
 Features:
+
 Helvetica everywhere, 
 
 A simplified, larger logout button
