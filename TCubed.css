@@ -1,0 +1,246 @@
+#toolMenu ul {
+    background-color: #ffffff;
+    color: #ffffff;
+    height: 0;
+    width: 0;
+}
+
+a.icon-sakai-site-roster {
+    background-color: #ffffff;
+}
+
+a.icon-sakai-mailbox {
+    background-color: #ffffff;
+}
+
+a.icon-sakai-gradebook-tool {
+    background-color: #ffffff;
+}
+
+a.icon-sakai-sections {
+    background-color: #ffffff;
+}
+
+a.icon-sakai-help {
+    background-color: #ffffff;
+}
+
+a.icon-sakai-assignment-grades {
+    background-color: #ffffff;
+}
+
+a.icon-sakai-resources {
+    background-color: #ffffff;
+}
+
+a.icon-sakai-announcements {
+    background-color: #ffffff;
+}
+
+a.icon-sakai-syllabus {
+    background-color: #ffffff;
+}
+
+a.icon-sakai-siteinfo {
+    background-color: #ffffff;
+    font-variant: small-caps;
+    font-family: Helvetica;
+}
+
+#toolMenu {
+    height: 0;
+    width: 0;
+}
+
+#mastHead {
+    background-color: #ffffff;
+    border-style: solid;
+    border-color: #ffffff;
+    border-bottom-width: 20px;
+    border-width: 5px;
+}
+
+div.siteNavWrap.course {
+    background-color: #ffffff;
+    border-style: none;
+    border-color: #ffffff;
+    height: 30px;
+    font-variant: small-caps;
+    text-transform: lowercase;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+a.icon-sakai-iframe-site span {
+    font-variant: normal;
+    font-weight: bold;
+    font-family: Helvetica;
+    width: 10px;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+li a span {
+    font-family: Helvetica;
+    background-color: #ffffff;
+    border-color: #ffffff;
+    width: 20;
+    font-size: 16px;
+    border-style: none;
+    margin-bottom: 0;
+    padding-right: 0;
+    padding: 0;
+    font-weight: normal;
+    line-height: 40px;
+    height: 50px;
+}
+
+li.selectedTab a span {
+    font-family: Helvetica;
+    border-color: #ffffff;
+    font-size: 16px;
+    padding-top: 30px;
+    font-weight: bold;
+    color: #000000;
+}
+
+a.icon-sakai-syllabus span {
+    font-family: Helvetica;
+    font-variant: small-caps;
+}
+
+a.icon-sakai-announcements span {
+    font-family: Helvetica;
+    font-weight: normal;
+    font-style: normal;
+    font-variant: small-caps;
+}
+
+a.icon-sakai-resources span {
+    font-variant: small-caps;
+    font-family: Helvetica;
+}
+
+a.icon-sakai-assignment-grades span {
+    font-family: Helvetica;
+    font-variant: small-caps;
+}
+
+a.icon-sakai-gradebook-tool span {
+    font-variant: small-caps;
+}
+
+a.icon-sakai-mailbox span {
+    font-variant: small-caps;
+    font-family: Helvetica;
+}
+
+a.icon-sakai-site-roster span {
+    font-variant: small-caps;
+    font-family: Helvetica;
+}
+
+a.icon-sakai-sections span {
+    font-family: Helvetica;
+    font-variant: small-caps;
+}
+
+a.icon-sakai-help span {
+    font-family: Helvetica;
+    font-variant: small-caps;
+}
+
+#siteLinkList li a {
+    background-color: #ffffff;
+    height: 0;
+    width: 0;
+    padding-left: 3px;
+    padding-right: 120px;
+}
+
+#mastLogin {
+    background-color: #ffffff;
+}
+
+#loginLink1 {
+    font-family: Helvetica;
+    font-variant: small-caps;
+    background-color: #ffffff;
+    font-size: 15px;
+    border-style: solid;
+    border-width: 20px;
+    border-color: #ffffff;
+    font-style: normal;
+    font-weight: normal;
+    text-decoration: none;
+}
+
+div.action a img {
+    height: 0;
+    width: 0;
+}
+
+div.sakaiCopyrightInfo {
+    display: none;
+}
+
+a.icon-sakai-profile2 span {
+    font-variant: small-caps;
+}
+
+a.icon-sakai-preferences span {
+    font-variant: small-caps;
+}
+
+div.workspace {
+    background-color: #ffffff;
+    border-style: none;
+}
+
+div.action {
+    background-color: #ffffff;
+    border-style: solid;
+    border-color: #ffffff;
+    border-width: 10px;
+}
+
+div.title h2 {
+    border-color: #ffffff;
+    display: none;
+}
+
+#toggleToolMax {
+    height: 0;
+    width: 0;
+}
+
+#toolMenu ul li {
+    padding: 0;
+    width: 0;
+    height: 0;
+    margin-top: 40px;
+    background-color: #ffffff;
+    color: #ffffff;
+    border-style: none;
+}
+
+div.title a img {
+    height: 0;
+    width: 0;
+}
+
+#mastBanner {
+    font-size: 20px;
+    font-family: Helvetica;
+    color: #ffffff;
+    background-color: #ffffff;
+}
+
+a.icon-sakai-membership span {
+    font-variant: small-caps;
+}
+
+a.icon-sakai-motd span {
+    font-variant: small-caps;
+}
+
