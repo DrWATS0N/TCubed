@@ -1,4 +1,4 @@
-# TCubed
+# T-Cubed
 A minimalist redesign for T-Square
 
 Features:
